@@ -1,0 +1,5 @@
+# Needed only for eval_gold_v3.py; the other scripts use the Python standard library.
+torch
+transformers
+accelerate
+bitsandbytes
